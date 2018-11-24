@@ -24,3 +24,12 @@ a:hover {
 section i {
     font-size: 4.5rem;
 } 
+
+.imagem {
+    background: url("bg-showcase-1.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
