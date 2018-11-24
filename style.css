@@ -11,3 +11,16 @@ header{
     padding-top: 12rem; 
     padding-bottom: 12rem;
    }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section i {
+    font-size: 4.5rem;
+} 
